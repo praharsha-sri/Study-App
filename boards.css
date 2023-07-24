@@ -1,0 +1,31 @@
+h1 {
+    padding: 0px;
+    width: fit-content;
+    background-color: transparent;
+    margin: 0px 20px 0px 20px;
+    line-height: 30px;
+}
+
+.container1 {
+    border-radius: 30px;
+    height: 130px;
+}
+
+.a123 {
+    line-height: 0px;
+}
+
+.containertask {
+    width: 97%;
+    border-radius: 30px;
+    height: 150px;
+}
+
+.flex3 {
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    background-color: transparent;
+    line-height: 0.5px
+}

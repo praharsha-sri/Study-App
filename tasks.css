@@ -1,0 +1,66 @@
+* {
+    margin: 10px;
+}
+
+.flex1 {
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    background-color: transparent;
+    line-height: 0.5px
+}
+
+.flex2 {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    background-color: transparent;
+    line-height: 0.5px
+}
+
+img {
+    border-radius: 50px;
+    width: 30px;
+    margin-top: 15px;
+}
+
+h3 {
+    padding: 0px;
+    width: fit-content;
+    background-color: transparent;
+}
+h4 {
+    
+    padding: 0px;
+    width: fit-content;
+    background-color: transparent;
+}
+h1 {
+    padding: 0px;
+    width: fit-content;
+    background-color: transparent;
+    margin: 0px 20px 0px 20px;
+    line-height: 30px;
+}
+.container {
+    width: 97%;
+    border-radius: 30px;
+    height: 150px;
+}
+
+.innerflex {
+    display: flex;
+    margin-right: 0px;
+}
+
+.checked {
+    width: 30px;
+}
+.compimg {
+    margin-left: 25px;
+}
+.comph4 {
+    margin-left: 20px;
+}

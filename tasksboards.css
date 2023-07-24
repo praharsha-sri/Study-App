@@ -1,0 +1,89 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 15px;
+    width: 93vw;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.taskbutton {
+    color: #5E8BFA;
+    font-size: 50px;
+    font-weight: 300;
+    padding: 5px 25px 5px 25px;
+    border: none;
+    background-color: transparent;
+}
+
+.taskbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.taskbutton:focus {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.boardbutton {
+    color: #5E8BFA;
+    font-size: 50px;
+    font-weight: 300;
+    padding: 5px 25px 5px 25px;
+    border: none;
+    background-color: transparent;
+}
+
+.boardbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.boardbutton:focus {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.status {
+    display: flex;
+    gap: 0px;
+}
+.a {
+    padding: 5px 15px 5px 15px;
+    border-radius: 45%;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.a:hover {
+    background: #5E8BFA;
+    color: black;
+}
+
+.a:focus {
+    background: #5E8BFA;
+    color: black;
+}
+
+.days {
+    display: flex;
+    background-color: transparent;
+    justify-content: space-evenly;
+}
+.b {
+    color: rgba(220, 215, 215, 0.909);
+    font-size: 30px;
+    border: none;
+    background-color: transparent;
+    padding: 0px;
+}
+.b:focus {
+    color: white;
+    font-weight: 800;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    /* position: fixed; */
+}

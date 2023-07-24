@@ -1,0 +1,73 @@
+.task {
+    border-style: solid;
+    border-color: none;
+    border-radius: 30px;
+    background: #ECE5C7;
+    width: 30%;
+    position: absolute;
+    top: 300px;
+    left: 510px;
+    display: flex;
+    flex-direction: column;
+}
+
+.board {
+    border-style: solid;
+    border-color: none;
+    border-radius: 30px;
+    background: #ECE5C7;
+    width: 25%;
+    position: absolute;
+    top: 450px;
+    left: 510px;
+    display: flex;
+    flex-direction: column;
+}
+.close {
+    display: flex;
+    background: transparent;
+    justify-content: space-between;
+}
+.addtask {
+    color: black;
+    text-align: center;
+}
+
+.addboard {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+}
+h2 {
+    background: transparent;
+}
+
+.submit {
+    background: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: 30px;
+}
+
+.c {
+    padding: 4px;
+    background: white;
+    border: none;
+    color: black;
+}
+
+select {
+    background: white;
+    border: none;
+}
+
+.cal {
+    display: flex;
+}
+
+.cdate {
+    width: 90%;
+    /* margin: 5px; */
+}
