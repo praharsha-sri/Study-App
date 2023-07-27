@@ -1,0 +1,12 @@
+{
+  "name": "study-app-1",
+  "version": "1.0.0",
+  "description": "The study app is designed to help students effectively manage their study time, stay organized, reinforce learning through practice and revision, establish positive study habits, and track their progress towards academic goals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
